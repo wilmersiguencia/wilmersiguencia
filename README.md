@@ -1,33 +1,34 @@
 # 👋 Hi, I'm Wilmer Sigüencia
 
-### Software Developer | Data Analyst | AI Enthusiast
+## Software Engineering Student | Backend Developer | Data Analyst
 
-I'm a Software Engineering student passionate about building practical solutions through programming, automation, and data analysis.
+Passionate about software development, data analysis, and artificial intelligence. I enjoy building practical solutions that automate processes and transform data into valuable insights.
 
-I enjoy transforming real-world problems into efficient software solutions while continuously learning new technologies and best development practices.
+Currently expanding my skills in backend development, machine learning, and predictive analytics.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Software Engineering Student
-* 💻 Backend Development with Python & Flask
-* 📊 Data Analysis with Pandas and SQL
-* 🤖 Exploring Artificial Intelligence and Machine Learning
-* 🗄️ Database Design and Management
-* 🌱 Always learning and improving
+* 🐍 Python Developer
+* 🌐 Backend Development with Flask
+* 📊 Data Analysis with Pandas
+* 🗄️ SQL & Database Management
+* 🤖 Learning Artificial Intelligence & Machine Learning
+* 📚 Constantly improving through personal projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 
 * Python
 * Java
 * SQL
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
 ### Frameworks & Libraries
@@ -48,53 +49,61 @@ I enjoy transforming real-world problems into efficient software solutions while
 
 ---
 
-## 📂 Featured Projects
+# 📂 Projects
 
-### 🛒 Shopping Cart System
+## 💧 Water Management System
 
-Java application designed using the C4 Model architecture with modular packages and clean object-oriented design.
+A web application developed with Flask for managing water meter readings, customer records, and operational processes. The project focuses on improving efficiency through digital automation and database management.
 
-### 📊 Excel Data Processing System
+### Technologies
 
-Python application capable of importing, processing, and exporting Excel files dynamically using Pandas.
-
-### 🌐 Web Applications with Flask
-
-Development of responsive web applications with authentication, database integration, and CRUD operations.
-
-### 🤖 Process Automation
-
-Scripts and utilities that automate repetitive tasks, reducing manual work and improving productivity.
+* Python
+* Flask
+* SQLite
+* HTML
+* CSS
 
 ---
 
-## 🎯 Current Goals
+## 🌐 Landing Page Project
 
-* Learn Machine Learning and Deep Learning
-* Build SaaS applications
-* Master Cloud Computing
-* Contribute to Open Source projects
-* Become a Full Stack AI Engineer
+Modern and responsive landing page built with HTML and CSS, focused on clean design, usability, and professional presentation.
 
 ---
 
-## 📈 GitHub Stats
+## ⚽ Football Match Prediction (In Progress)
 
-> GitHub automatically displays your activity and contribution graph on your profile.
+Data analysis project that aims to predict football match outcomes using historical statistics, data processing, and machine learning techniques.
+
+Current work includes:
+
+* Data cleaning
+* Exploratory Data Analysis (EDA)
+* Feature engineering
+* Predictive modeling
+* Performance evaluation
 
 ---
 
-## 💡 Philosophy
+## 🎯 Goals
 
-*"Technology should simplify people's lives by solving real problems with elegant and efficient solutions."*
+* Master Artificial Intelligence
+* Become a Data Scientist
+* Build scalable software solutions
+* Contribute to open-source projects
+* Develop SaaS products
 
 ---
 
-## 📫 Connect with Me
+## 📈 Interests
 
-* GitHub
-* LinkedIn
-* Upwork
+* Artificial Intelligence
+* Data Science
+* Backend Development
+* Automation
+* Machine Learning
+* Software Architecture
 
-Always open to collaboration, freelance opportunities, and exciting software projects.
+---
 
+> "Code is not just about solving problems; it's about creating opportunities through technology."
