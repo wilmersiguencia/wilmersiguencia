@@ -1,109 +1,215 @@
-# 👋 Hi, I'm Wilmer Sigüencia
+<h1 align="center">👋 Hi, I'm Wilmer Sigüencia</h1>
 
-## Software Engineering Student | Backend Developer | Data Analyst
+<h3 align="center">
+Software Engineering Student • Backend Developer • Data Analyst • AI Enthusiast
+</h3>
 
-Passionate about software development, data analysis, and artificial intelligence. I enjoy building practical solutions that automate processes and transform data into valuable insights.
-
-Currently expanding my skills in backend development, machine learning, and predictive analytics.
-
----
-
-## 🚀 About Me
-
-* 🎓 Software Engineering Student
-* 🐍 Python Developer
-* 🌐 Backend Development with Flask
-* 📊 Data Analysis with Pandas
-* 🗄️ SQL & Database Management
-* 🤖 Learning Artificial Intelligence & Machine Learning
-* 📚 Constantly improving through personal projects
+<p align="center">
+Building intelligent solutions through software, data, and artificial intelligence.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+<table>
+<tr>
 
-### Languages
+<td width="60%">
 
-* Python
-* Java
-* SQL
-* HTML5
-* CSS3
-* JavaScript
+## 👨‍💻 About Me
 
-### Frameworks & Libraries
+I'm a **Software Engineering student** passionate about creating innovative solutions through **backend development, data analysis, and artificial intelligence**.
 
-* Flask
-* Pandas
+I enjoy transforming real-world problems into software products that automate processes and generate value through data.
 
-### Databases
+Currently expanding my knowledge in **Machine Learning**, **Data Science**, and **Software Architecture** while building personal projects.
 
-* SQLite
-* MySQL
+- 🎓 Software Engineering Student
+- 🐍 Python Backend Developer
+- 📊 Data Analysis Enthusiast
+- 🤖 Learning Artificial Intelligence & Machine Learning
+- 🚀 Passionate about automation and software engineering
+- 🌱 Always learning new technologies
 
-### Tools
+</td>
 
-* Git
-* GitHub
-* VS Code
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📂 Projects
+# 🚀 Currently Working On
+
+- ⚽ Football Match Prediction using Data Science & Machine Learning
+- 📊 Improving my skills in Predictive Analytics
+- 🤖 Learning Artificial Intelligence
+- ☁️ Exploring Cloud Technologies
+- 💼 Building projects for my professional portfolio
+
+---
+
+# 📂 Featured Projects
 
 ## 💧 Water Management System
 
-A web application developed with Flask for managing water meter readings, customer records, and operational processes. The project focuses on improving efficiency through digital automation and database management.
+Web application designed to manage water meter readings and customer information through digital automation.
 
-### Technologies
+**Tech:**
 
-* Python
-* Flask
-* SQLite
-* HTML
-* CSS
+`Python` `Flask` `SQLite`
 
 ---
 
-## 🌐 Landing Page Project
+## 🌐 Responsive Landing Page
 
-Modern and responsive landing page built with HTML and CSS, focused on clean design, usability, and professional presentation.
+Modern landing page focused on responsive design, clean interfaces, and user experience.
+
+**Tech:**
+
+`HTML5` `CSS3`
 
 ---
 
 ## ⚽ Football Match Prediction (In Progress)
 
-Data analysis project that aims to predict football match outcomes using historical statistics, data processing, and machine learning techniques.
+Machine Learning project focused on predicting football match outcomes using historical statistics and data analysis.
 
-Current work includes:
+Current features:
 
-* Data cleaning
-* Exploratory Data Analysis (EDA)
-* Feature engineering
-* Predictive modeling
-* Performance evaluation
-
----
-
-## 🎯 Goals
-
-* Master Artificial Intelligence
-* Become a Data Scientist
-* Build scalable software solutions
-* Contribute to open-source projects
-* Develop SaaS products
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Predictive Models
+- Model Evaluation
 
 ---
 
-## 📈 Interests
+# 🛠️ Technologies & Tools
 
-* Artificial Intelligence
-* Data Science
-* Backend Development
-* Automation
-* Machine Learning
-* Software Architecture
+### 💻 Languages
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+
+</p>
 
 ---
 
-> "Code is not just about solving problems; it's about creating opportunities through technology."
+### 📚 Libraries & Frameworks
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+
+</p>
+
+---
+
+### ⚙️ Tools
+
+<p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+
+</p>
+
+---
+
+# 🎯 Career Goals
+
+- 🤖 Become an AI Engineer
+- 📊 Specialize in Data Science & Machine Learning
+- ☁️ Learn Cloud Computing
+- 🚀 Build AI-powered SaaS products
+- 💼 Work with international clients
+- 🌎 Create software that solves real-world problems through data
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilmersiguencia&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmersiguencia&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wilmersiguencia&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wilmersiguencia&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="left">
+
+<a href="https://github.com/wilmersiguencia">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/wilmer-siguencia-92022b293/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+"Building intelligent solutions through software, data, and artificial intelligence."
+
+</h3>
